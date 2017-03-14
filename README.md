@@ -2,7 +2,7 @@
 
 makes trackpad go buzz.
 
-# wat do
+# wat do?
 
 * you want buzz?
 
