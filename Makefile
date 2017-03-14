@@ -1,0 +1,2 @@
+haptic: haptic.swift
+	swiftc $<
